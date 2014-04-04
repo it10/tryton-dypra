@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<form string="Seleccionar Cliente y Periodo " col ="6">
+    <label name="entidad"/>
+    <field name="entidad"/>
+</form>

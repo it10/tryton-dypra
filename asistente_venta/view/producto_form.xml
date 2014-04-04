@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<form string="Seleccion de producto y origen" col="3">
+    <field name="cat" xexpand="0" colspan="2"/>
+    <newline/>
+    <separator id="prod" colspan="2"/>
+    <newline/>
+    <label name="producto"/>
+    <field name="producto" widget="selection" xexpand="0" width="400"/>
+    <newline/>
+    <separator id="origen" colspan="2"/>
+    <newline/>
+    <label name="origen"/>
+    <field name="origen" xexpand="0" width="400"/>
+</form>

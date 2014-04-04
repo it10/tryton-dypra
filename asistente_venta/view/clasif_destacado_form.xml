@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<form string="Clasificado Destacado" col="6">
+    <label name="ubicacion"/>
+    <field name="ubicacion" xexpand="0" width="150"/>
+    <label name="tipo"/>
+    <field name="tipo" xexpand="0" width="150"/>
+    <newline/>
+    <separator id="sep_cm_col_cd" colspan="6"/>
+    <newline/>
+    <label name="cant_centimetros" />
+    <field name="cant_centimetros" xexpand="0" width="150"/>
+    <label name="cant_columnas"/>
+    <field name="cant_columnas" xexpand="0" width="150"/>
+    <newline/>
+    <separator id="sep_bonif_cd" string="¿BONIFICACION?" xexpand="0"/>
+    <field name="bonificacion" xexpand="0"/>
+    <newline/>
+    <label name="tipo_bonif" string=" "/>
+    <field name="tipo_bonif" xexpand="0" width="200"/>
+    <label name="valor"/>
+    <field name="valor" xexpand="0" width="150"/>
+    <label name="motivo"/>
+    <field name="motivo" xexpand="0" width="150"/>
+    <newline/>
+    <separator id="sep_apric_cd" string="APARICIONES" colspan="6"/>
+    <newline/>
+    <label name="apariciones" string=" "/>
+    <field name="apariciones" xexpand="0" width="200"/>
+    <label name="cant_apariciones"/>
+    <field name="cant_apariciones" xexpand="0" width="150"/>
+    <label name="inicio"/>
+    <field name="inicio" xexpand="0" width="150"/>
+    <newline/>
+    <separator name="descripcion" string="TEXTO DEL AVISO CLASIFICADO DESTACADO" colspan='6'/>
+    <newline/>
+    <field name="descripcion" colspan='6'/>
+</form>

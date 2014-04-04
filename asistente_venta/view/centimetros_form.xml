@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<form string="Centimetros" col="6">
+    <label name="cant_centimetros"/>
+    <field name="cant_centimetros"/>
+    <label name="cant_columnas"/>
+    <field name="cant_columnas"/>
+    <label name="precio_cm"/>
+    <field name="precio_cm"/>
+</form>

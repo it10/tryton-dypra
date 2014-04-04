@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<tryton>
+    <data>
+            <!-- vista -->
+            <record model='ir.ui.view' id='eleccion_forma_venta_form'>
+                <field name='model'>asistente_venta.forma_venta</field>
+                <field name='type'>form</field>
+                <field name='name'>eleccion_forma_venta_form</field>
+            </record>
+            <record model='ir.ui.view' id='tipo_y_categoria_form'>
+                <field name='model'>asistente_venta.tipo_y_categoria.start</field>
+                <field name='type'>form</field>
+                <field name='name'>tipo_y_categoria_form</field>
+            </record>
+            <record model='ir.ui.view' id='producto_form'>
+                <field name='model'>asistente_venta.producto</field>
+                <field name='type'>form</field>
+                <field name='name'>producto_form</field>
+            </record>
+            <record model='ir.ui.view' id='aviso_comun_form'>
+                <field name='model'>asistente_venta.aviso_comun</field>
+                <field name='type'>form</field>
+                <field name='name'>aviso_comun_form</field>
+            </record>
+            <record model='ir.ui.view' id='aviso_especial_form'>
+                <field name='model'>asistente_venta.aviso_especial</field>
+                <field name='type'>form</field>
+                <field name='name'>aviso_especial_form</field>
+            </record>
+            <record model='ir.ui.view' id='funebre_comun_form'>
+                <field name='model'>asistente_venta.funebre_comun</field>
+                <field name='type'>form</field>
+                <field name='name'>funebre_comun_form</field>
+            </record>
+            <record model='ir.ui.view' id='funebre_destacado_form'>
+                <field name='model'>asistente_venta.funebre_destacado</field>
+                <field name='type'>form</field>
+                <field name='name'>funebre_destacado_form</field>
+            </record>
+            <record model='ir.ui.view' id='clasificado_comun_form'>
+                <field name='model'>asistente_venta.clasificado_comun</field>
+                <field name='type'>form</field>
+                <field name='name'>clasif_comun_form</field>
+            </record>
+            <record model='ir.ui.view' id='clasificado_destacado_form'>
+                <field name='model'>asistente_venta.clasificado_destacado</field>
+                <field name='type'>form</field>
+                <field name='name'>clasif_destacado_form</field>
+            </record>
+            <record model='ir.ui.view' id='edicto_judicial_form'>
+                <field name='model'>asistente_venta.edicto_judicial</field>
+                <field name='type'>form</field>
+                <field name='name'>edicto_judicial_form</field>
+            </record>
+            <record model='ir.ui.view' id='insert_form'>
+                <field name='model'>asistente_venta.insert</field>
+                <field name='type'>form</field>
+                <field name='name'>insert_form</field>
+            </record>
+            <record model='ir.ui.view' id='suplemento_form'>
+                <field name='model'>asistente_venta.suplemento</field>
+                <field name='type'>form</field>
+                <field name='name'>suplemento_form</field>
+            </record>
+            <record model='ir.ui.view' id='centimetros_form'>
+                <field name='model'>asistente_venta.centimetros</field>
+                <field name='type'>form</field>
+                <field name='name'>centimetros_form</field>
+            </record>
+            <record model='ir.ui.view' id='seleccion_fechas_form'>
+                <field name='model'>asistente_venta.seleccion_fechas</field>
+                <field name='type'>form</field>
+                <field name='name'>seleccion_fechas_form</field>
+            </record>
+            <record model='ir.ui.view' id='radio_form'>
+                <field name='model'>asistente_venta.radio</field>
+                <field name='type'>form</field>
+                <field name='name'>radio_form</field>
+            </record>
+            <record model='ir.ui.view' id='digital_form'>
+                <field name='model'>asistente_venta.digital</field>
+                <field name='type'>form</field>
+                <field name='name'>digital_form</field>
+            </record>
+            <!-- wizard -->
+            <record model="ir.action.wizard" id="act_wizard_asistente">
+                <field name="name">Asistente de Venta</field>
+                <field name="wiz_name">asistente_venta.asistente_wizard</field>
+                <field name='model'>sale.sale</field>
+            </record>
+            <record model="ir.action.wizard" id="act_wizard_forma_venta">
+                <field name="name">Forma de Venta</field>
+                <field name="wiz_name">asistente_venta.eleccion_forma_venta</field>
+            </record>
+            <menuitem parent="sale.menu_sale" id="sale.menu_sale_form" action="act_wizard_forma_venta" name="Ventas" icon="tryton-list"/>
+            <!-- <menuitem parent="sale.menu_sale" id="menu_venta" action="act_wizard_forma_venta" name="Mis Ventas"/> -->
+
+            <record model="ir.action.act_window" id="sale.act_sale_form">
+                <field name="name">Sales</field>
+                <field name="res_model">sale.sale</field>
+                <field name="search_value"></field>
+            </record>
+            
+	        <record model="ir.action.act_window" id="descarte_de_estados">
+                <field name="name">Sales</field>
+                <field name="res_model">sale.sale</field>
+                <field name="search_value"></field>
+            </record>
+            <record model="ir.action.act_window.domain" id="sale.act_sale_form_domain_draft">
+                <field name="name">Draft</field>
+                <field name="sequence" eval="10"/>
+                <field name="domain">[('state', '=', 'draft')]</field>
+                <field name="act_window" ref="descarte_de_estados"/>
+            </record>
+            <record model="ir.action.act_window.domain" id="sale.act_sale_form_domain_confirmed">
+                <field name="name">Confirmed</field>
+                <field name="sequence" eval="30"/>
+                <field name="domain">[('state', '=', 'confirmed')]</field>
+                <field name="act_window" ref="descarte_de_estados"/>
+            </record>
+            <record model="ir.ui.view" id="asistente_line_view_form">
+                <field name="model">sale.line</field>
+                <field name="type">form</field>
+                <field name="name">sale_line_form</field>
+                <field name="inherit" ref="sale.sale_line_view_form"/>
+            </record>
+    </data>
+</tryton>

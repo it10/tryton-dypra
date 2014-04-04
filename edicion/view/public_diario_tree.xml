@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<tree string='Publicacion Diario'>
+	<field name='fecha'/>
+    <field name= 'termino_pago'/>
+    <field name='cliente'/>
+    <field name='producto'/>
+    <field name='ubicacion'/>
+    <field name="cm"/>
+    <field name="col"/>
+    <field name="lin"/>
+    <field name="pag"/>
+    <field name="unidad"/>
+    <field name='descrip'/>
+</tree>

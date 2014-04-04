@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<form string="Publicacion Sin Confirmar Radio" col="2">
+    <label name="fecha"/>
+    <field name="fecha"/>
+    <newline/>
+    <label name="horario_programacion"/>
+    <field name="horario_programacion"/>
+    <newline/>
+    <label name="desde"/>
+    <field name="desde" xexpand="0" width="150"/>
+    <newline/>
+    <label name="hasta"/>
+    <field name="hasta" xexpand="0" width="150"/>
+    <newline/>
+</form>

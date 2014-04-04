@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<form string="Tipo de venta. Seleccion forma de pago, cliente y categorias" col="6">
+    <label name="efectivo" string="FORMA DE PAGO EFECTIVO"/>
+    <field name="efectivo" xexpand="0" colspan="2"/>
+    <separator id="efectivo" colspan="6"/>
+    <newline/>
+    <label name="cliente_efec"/>
+    <field name="cliente_efec"/>
+    <newline/>
+    <separator id="efectivo2" colspan="6"/>
+    <newline/>
+    <label name="diario_efec"/>
+    <field name="diario_efec" xexpand="0"/>
+    <label name="digital_efec"/>
+    <field name="digital_efec" xexpand="0"/>
+    <label name="radio_efec"/>
+    <field name="radio_efec" xexpand="0"/>
+     <newline/>
+    <label name="cat_diario_efec" string=" "/>
+    <field name="cat_diario_efec"/>
+    <label name="cat_digital_efec" string=" "/>
+    <field name="cat_digital_efec"/>
+    <label name="cat_radio_efec" string=" "/>
+    <field name="cat_radio_efec"/>
+    <newline/>
+    <separator id="cta_cte" colspan="6"/>
+    <newline/>
+    <label name="cc" string="FORMA DE PAGO CUENTA CORRIENTE"/>
+    <field name="cc" xexpand="0" colspan="2"/>
+    <newline/>
+    <separator id="cta_cte2" colspan="6"/>
+    <newline/>
+    <label name="cliente_cc"/>
+    <field name="cliente_cc"/>
+    <newline/>
+    <newline/>
+    <separator id="cta_cte3" colspan="6"/>
+    <newline/>
+    <label name="diario_cc"/>
+    <field name="diario_cc" xexpand="0"/>
+    <newline/>
+    <label name="cat_diario_cc" string=" "/>
+    <field name="cat_diario_cc"/>
+</form>

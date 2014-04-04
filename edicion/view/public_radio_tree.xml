@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<tree string='Publicacion Radio'>
+    <field name='cliente'/>
+    <field name='producto'/>
+    <field name='categoria'/>
+    <field name='fecha'/>
+    <field name='descrip'/>
+    <field name="horario_programacion"/>
+    <field name="desde"/>
+    <field name="hasta"/>
+</tree>

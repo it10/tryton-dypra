@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<form string="Publicacion Sin Confirmar Digital" col="2">
+    <label name="fecha"/>
+    <field name="fecha"/>
+    <newline/>
+    <label name="expandible" string ="¿EXPANDIBLE?"/>
+    <field name="expandible"  xexpand="0"/>
+    <newline/>
+    <label name="a"/>
+    <field name="a" xexpand="0" width="150"/>
+    <newline/>
+    <label name="recargo" string = "RECARGO(%):"/>
+    <field name="recargo" xexpand="0" width="150"/>
+    <newline/>
+</form>

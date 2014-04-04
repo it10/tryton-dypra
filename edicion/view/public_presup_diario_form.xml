@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<form string="Publicacion Presupuestada Diario" col='6'>
+    <field name="categoria_producto" colspan="6"/>
+    <newline/>
+    <label name="fecha"/>
+    <field name="fecha"/>
+    <label name="origen"/>
+    <field name="origen"/>
+    <newline/>
+    <separator id="sep_ubic" string="La ubicacion elegida recargara el % correspondiente en el $ de la linea" colspan="4"/>
+    <newline/>
+    <label name="ubicacion"/>
+    <field name="ubicacion"/>
+    <label name="nro_pag"/>
+    <field name="nro_pag"/>
+    <label name="nombre_sup"/>
+    <field name="nombre_sup"/>
+    <newline/>
+    <separator id="sep_cm_col" string="OBLIGATORIO (Si la unidad del producto es centimetro)" colspan="4"/>
+    <newline/>
+    <label name="cm"/>
+    <field name="cm"/>
+    <label name="col"/>
+    <field name="col"/>
+    <newline/>
+    <separator id="sep_lin" string="OBLIGATORIO (Si la unidad del producto es linea)" colspan="4"/>
+    <newline/>
+    <label name="lin"/>
+    <field name="lin"/>
+    <newline/>
+    <separator id="sep_pag" string="OBLIGATORIO (Si la unidad del producto es pagina)" colspan="4"/>
+    <newline/>
+    <label name="pag"/>
+    <field name="pag"/>
+    <newline/>
+    <separator id="sep_uni" string="OBLIGATORIO (Si la unidad del producto es unidad)" colspan="4"/>
+    <newline/>
+    <label name="unidad"/>
+    <field name="unidad"/>
+</form>

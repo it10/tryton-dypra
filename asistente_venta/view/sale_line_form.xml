@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<data>
+	<xpath expr="/form/notebook/page[@id='general']" position="after">
+		<page string="Publicacion" id="pub_presup" >
+            <newline/>
+            <field name="categoria_diario" xexpand="0"/>
+            <field name="pub_presup_diario"/>
+            <newline/>
+            <field name="categoria_radio" xexpand="0"/>
+            <field name="pub_presup_radio"/>
+            <newline/>
+            <field name="categoria_dig" xexpand="0"/>
+            <field name="pub_presup_digital"/>
+            <newline/>
+        </page>
+	</xpath>
+</data>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<tree string='Publicacion Sin Confirmar'>
+    <field name="fecha"/>
+    <field name="ubicacion"/>
+    <field name="cm"/>
+    <field name="col"/>
+    <field name="lin"/>
+    <field name="pag"/>
+    <field name="unidad"/>
+</tree>

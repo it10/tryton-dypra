@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<form string="Eleccion forma de venta" col="1">
+    <field name="fondo"/>
+</form>

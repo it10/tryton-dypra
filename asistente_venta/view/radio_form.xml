@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<form string="Radio" col="6">
+    <label name="precio_mencion"/>
+    <field name="precio_mencion"/>
+    <field name="nombre"/>
+    <newline/>
+    <label name="cantidad_menciones"/>
+    <field name="cantidad_menciones"/>
+    <newline/>
+    <label name="horario_programacion"/>
+    <field name="horario_programacion"/>
+    <label name="desde"/>
+    <field name="desde" xexpand="0" width="150"/>
+    <label name="hasta"/>
+    <field name="hasta" xexpand="0" width="150"/>
+    <newline/>
+    <separator id="s19" colspan='6'/>
+    <label name="apariciones"/>
+    <field name="apariciones" xexpand="0" width="200"/>
+    <label name="cant_apariciones"/>
+    <field name="cant_apariciones"/>
+    <label name="inicio"/>
+    <field name="inicio"/>
+    <newline/>
+    <separator id="s20" colspan='6'/>
+    <newline/>
+    <label name="bonificacion" string ="¿BONIFICACION?"/>
+    <field name="bonificacion"/>
+    <newline/>
+    <label name="tipo_bonif" string=" "/>
+    <field name="tipo_bonif" xexpand="0" width="200"/>
+    <label name="valor"/>
+    <field name="valor"/>
+    <label name="motivo"/>
+    <field name="motivo" xexpand="0" width="150"/>
+    <newline/>
+    <separator name="mencion" string="TEXTO DE LA MENCION" colspan='6'/>
+    <newline/>
+    <field name="mencion" colspan='6'/>
+</form>
