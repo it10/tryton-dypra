@@ -800,24 +800,7 @@
         <record model="product.product" id="cm_">
             <field name="template" ref="t_cm_" />
         </record>                
-	<!-- PRODUCTOS de DIARIO / EXTRA  -->
-	<record model="product.template" id="t_recargo">
-            <field name="name">Recargo</field>
-            <field name="category" ref="cat_extra" />
-            <field name="default_uom" ref="product.uom_unit" />
-            <field name="sale_uom" ref="product.uom_unit" />
-            <field name="type" eval="'service'" />
-            <field name="purchasable" eval="False" />
-            <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('0')"/>
-            <field name="cost_price" eval="Decimal('0')"/>
-            <field name="cost_price_method" eval="'fixed'"/>
-            <field name="account_category" eval="True"/>
-            <field name="taxes_category" eval="True"/>
-        </record>
-        <record model="product.product" id="recargo">
-            <field name="template" ref="t_recargo" />
-        </record>                          
+	<!-- PRODUCTOS de DIARIO / EXTRA  -->                          
 	<record model="product.template" id="t_bonif">
             <field name="name">Bonificacion</field>
             <field name="category" ref="cat_extra" />
