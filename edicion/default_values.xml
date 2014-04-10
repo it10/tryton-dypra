@@ -169,7 +169,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('13')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -185,7 +185,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('26')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/> 
@@ -202,7 +202,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('19')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>     
@@ -219,7 +219,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('38')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>    
@@ -238,7 +238,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('16')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -254,7 +254,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('32')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/> 
@@ -271,7 +271,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('20')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>     
@@ -288,7 +288,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('40')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>    
@@ -307,7 +307,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('46')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -323,7 +323,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('92')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/> 
@@ -340,7 +340,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('55.20')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>     
@@ -357,7 +357,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('110.40')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>    
@@ -376,7 +376,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('80')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -392,7 +392,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('160')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/> 
@@ -409,7 +409,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('80')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>     
@@ -426,7 +426,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('160')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>    
@@ -445,7 +445,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('72')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -461,7 +461,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('144')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/> 
@@ -478,7 +478,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('94.12')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>     
@@ -495,7 +495,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('188.24')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>    
@@ -514,7 +514,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('110')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -531,7 +531,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('160')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -548,7 +548,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('140')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -565,7 +565,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('190')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -582,7 +582,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('40')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -599,7 +599,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('60')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -616,7 +616,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('80')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -634,7 +634,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('35')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -651,7 +651,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('40')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -668,7 +668,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('55')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -685,7 +685,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('65')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -702,7 +702,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('90')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -719,7 +719,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('10')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -737,7 +737,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('3')"/>
+            <field name="list_price" eval="Decimal('1)"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -828,7 +828,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('6')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -845,7 +845,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('6')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -862,7 +862,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('6')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -879,7 +879,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('6')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -896,7 +896,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('6')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -913,7 +913,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('6')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -930,7 +930,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('6')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -948,7 +948,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('7')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -965,7 +965,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('7')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -982,7 +982,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('7')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -999,7 +999,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('7')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -1016,7 +1016,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('7')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -1033,7 +1033,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('7')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -1050,7 +1050,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('7')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -1069,7 +1069,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('900')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -1086,7 +1086,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('1200')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -1103,7 +1103,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('300')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -1120,7 +1120,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('800')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -1137,7 +1137,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('150')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -1154,7 +1154,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('450')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -1171,7 +1171,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('600')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -1188,7 +1188,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('600')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -1205,7 +1205,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('3000')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -1222,7 +1222,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('4500')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -1239,7 +1239,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('1500')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -1275,7 +1275,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('1800')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -1292,7 +1292,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('2400')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -1309,7 +1309,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('700')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -1326,7 +1326,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('1500')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -1343,7 +1343,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('500')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -1360,7 +1360,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('1100')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -1377,7 +1377,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('1200')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -1394,7 +1394,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('1200')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -1411,7 +1411,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('4500')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -1428,7 +1428,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('6000')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -1445,7 +1445,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('2500')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -1481,7 +1481,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('3000')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -1498,7 +1498,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('3500')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -1515,7 +1515,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('1500')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -1532,7 +1532,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('2500')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -1549,7 +1549,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('900')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -1566,7 +1566,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('1800')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -1583,7 +1583,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('2000')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -1600,7 +1600,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('2000')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -1617,7 +1617,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('6000')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -1634,7 +1634,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('7500')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -1651,7 +1651,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('3500')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -1687,7 +1687,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('3000')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -1704,7 +1704,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('4000')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -1721,7 +1721,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('2500')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -1738,7 +1738,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('4000')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -1755,7 +1755,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('2000')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -1772,7 +1772,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('1500')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -1789,7 +1789,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('5000')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -1806,7 +1806,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('1000')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -1823,7 +1823,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('400')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -1840,7 +1840,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('200')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -1858,7 +1858,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('6000')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -1875,7 +1875,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('8000')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -1892,7 +1892,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('5000')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -1909,7 +1909,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('8000')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -1926,7 +1926,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('4000')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -1943,7 +1943,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('3000')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -1960,7 +1960,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('10000')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -1977,7 +1977,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('2000')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -1994,7 +1994,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('800')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -2011,7 +2011,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('400')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -2029,7 +2029,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('9000')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -2046,7 +2046,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('12000')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -2063,7 +2063,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('7500')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -2080,7 +2080,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('12000')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -2097,7 +2097,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('6000')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -2114,7 +2114,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('4500')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -2131,7 +2131,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('15000')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -2148,7 +2148,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('3000')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -2165,7 +2165,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('1200')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
@@ -2182,7 +2182,7 @@
             <field name="type" eval="'service'" />
             <field name="purchasable" eval="False" />
             <field name="salable" eval="True" />
-            <field name="list_price" eval="Decimal('600')"/>
+            <field name="list_price" eval="Decimal('1')"/>
             <field name="cost_price" eval="Decimal('0')"/>
             <field name="cost_price_method" eval="'fixed'"/>
             <field name="account_category" eval="True"/>
